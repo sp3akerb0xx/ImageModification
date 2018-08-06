@@ -29,6 +29,7 @@ import java.util.Scanner;
  * it, scaling it, and rotating it in any of the three dimensions. The shape is always viewed from the same point,
  * (6, 8, 7.5) in space, and is projected to be viewed from 60 centimeters away.
  *
+ * Note: Create a new file with new endpoints before modifying them.
  * Note: Go to the "transform" method and change the pathname of the file to the new pathname before executing the program
  *
  * @author Nitin Chennam
